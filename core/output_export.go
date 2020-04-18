@@ -6,7 +6,7 @@ package core
 */
 import "C"
 import (
-	"github.com/eycorsican/go-tun2socks/component/pool"
+	"github.com/trojan-gfw/go-tun2socks/component/pool"
 	"unsafe"
 )
 

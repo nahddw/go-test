@@ -15,8 +15,8 @@ import (
 	"sync"
 	"sync/atomic"
 	"unsafe"
-	//"github.com/eycorsican/go-tun2socks/common/log"
-	syncex "github.com/eycorsican/go-tun2socks/component/go-syncex"
+	//"github.com/trojan-gfw/go-tun2socks/common/log"
+	syncex "github.com/trojan-gfw/go-tun2socks/component/go-syncex"
 )
 
 // lwIP runs in a single thread, locking is needed in Go runtime.

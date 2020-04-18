@@ -5,7 +5,7 @@ import (
 	"net"
 	"sync"
 
-	trie "github.com/eycorsican/go-tun2socks/component/domain-trie"
+	trie "github.com/trojan-gfw/go-tun2socks/component/domain-trie"
 	lru "github.com/hashicorp/golang-lru"
 )
 

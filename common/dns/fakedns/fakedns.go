@@ -7,10 +7,10 @@ import (
 
 	"github.com/miekg/dns"
 
-	cdns "github.com/eycorsican/go-tun2socks/common/dns"
-	"github.com/eycorsican/go-tun2socks/common/dns/fakeip"
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/component/pool"
+	cdns "github.com/trojan-gfw/go-tun2socks/common/dns"
+	"github.com/trojan-gfw/go-tun2socks/common/dns/fakeip"
+	"github.com/trojan-gfw/go-tun2socks/common/log"
+	"github.com/trojan-gfw/go-tun2socks/component/pool"
 )
 
 const (

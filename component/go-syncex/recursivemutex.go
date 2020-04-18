@@ -1,7 +1,7 @@
 package syncex
 
 import (
-	hackgid "github.com/eycorsican/go-tun2socks/component/gls"
+	hackgid "github.com/trojan-gfw/go-tun2socks/component/gls"
 	"sync"
 )
 

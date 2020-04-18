@@ -4,7 +4,7 @@ import (
 	"io"
 	golog "log"
 
-	"github.com/eycorsican/go-tun2socks/common/log"
+	"github.com/trojan-gfw/go-tun2socks/common/log"
 )
 
 var mylogger AndroidLogger

@@ -10,13 +10,13 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/eycorsican/go-tun2socks/common/dns"
-	"github.com/eycorsican/go-tun2socks/common/log"
-	_ "github.com/eycorsican/go-tun2socks/common/log/simple" // Register a simple logger.
-	"github.com/eycorsican/go-tun2socks/common/stats"
-	"github.com/eycorsican/go-tun2socks/core"
-	"github.com/eycorsican/go-tun2socks/filter"
-	"github.com/eycorsican/go-tun2socks/tun"
+	"github.com/trojan-gfw/go-tun2socks/common/dns"
+	"github.com/trojan-gfw/go-tun2socks/common/log"
+	_ "github.com/trojan-gfw/go-tun2socks/common/log/simple" // Register a simple logger.
+	"github.com/trojan-gfw/go-tun2socks/common/stats"
+	"github.com/trojan-gfw/go-tun2socks/core"
+	"github.com/trojan-gfw/go-tun2socks/filter"
+	"github.com/trojan-gfw/go-tun2socks/tun"
 )
 
 var version = "undefined"
